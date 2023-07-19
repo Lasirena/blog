@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Alice&#39;s Blog</title>
+        <link>http://example.org/post/</link>
+        <description>Recent content in Posts on Alice&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 19 Jul 2023 20:21:21 +0100</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The 3D Character Artist Journey - Part 6: Belts and Buckles</title>
+        <link>http://example.org/post/characterart-06/</link>
+        <pubDate>Wed, 19 Jul 2023 20:21:21 +0100</pubDate>
+        
+        <guid>http://example.org/post/characterart-06/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>The 3D Character Artist Journey - Part 5: Pants and Folds</title>
+        <link>http://example.org/post/characterart-05/</link>
+        <pubDate>Wed, 19 Jul 2023 20:21:07 +0100</pubDate>
+        
+        <guid>http://example.org/post/characterart-05/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>The 3D Character Artist Journey - Part 4: Wrapping Bandages</title>
+        <link>http://example.org/post/characterart-04/</link>
+        <pubDate>Wed, 19 Jul 2023 20:21:04 +0100</pubDate>
+        
+        <guid>http://example.org/post/characterart-04/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>The 3D Character Artist Journey - Part 3: Sculpting Hair</title>
+        <link>http://example.org/post/characterart-03/</link>
+        <pubDate>Wed, 19 Jul 2023 20:21:01 +0100</pubDate>
+        
+        <guid>http://example.org/post/characterart-03/</guid>
+        <description>&lt;p&gt;So many techniques and choices on how to approach stylized hair, and all of them can work; but produce somewhat different results.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>The 3D Character Artist Journey - Part 2: Detailed Anatomy</title>
+        <link>http://example.org/post/characterart-02/</link>
+        <pubDate>Mon, 26 Jun 2023 20:13:59 +0100</pubDate>
+        
+        <guid>http://example.org/post/characterart-02/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>The 3D Character Artist Journey - Part 1: Let&#39;s Get Started!</title>
+        <link>http://example.org/post/characterart-01/</link>
+        <pubDate>Mon, 19 Jun 2023 19:07:12 +0100</pubDate>
+        
+        <guid>http://example.org/post/characterart-01/</guid>
+        <description>&lt;img src="http://example.org/post/characterart-01/read1.jpg" alt="Featured image of post The 3D Character Artist Journey - Part 1: Let&#39;s Get Started!" /&gt;&lt;p&gt;Recently, I started a new 3D character art class - &lt;strong&gt;STYL&lt;/strong&gt;, at the Russian-speaking &lt;a class=&#34;link&#34; href=&#34;https://www.school-xyz.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;XYZ school&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a 6-month long program, where I will learn how to create a game-ready stylized character, taking it through the entire 3D pipeline - all the way from a ZBrush block-out to the in-game low-poly model (even with some animation to top it off!).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always wanted to learn how to create 3D characters for videogames. I have some experience with ZBrush, Maya, and the like; but never to this extent - so I thought it would be a good place to advance my skills further.&lt;/p&gt;
+&lt;p&gt;I wanted to use this blog as a place to document my progress, to see how far I can advance during the next 6 months!&lt;/p&gt;
+&lt;h3 id=&#34;choosing-a-concept&#34;&gt;Choosing a concept&lt;/h3&gt;
+&lt;p&gt;The first stage in this process was to pick a character concept to work from. While I had the option to create my own design, I think this would be a time-consuming undertaking in itself if I wanted it to be done well. Since my time in class is limited, I opted to work from another artists&amp;rsquo; concept instead.&lt;/p&gt;
+&lt;p&gt;The main thing that went into my consideration was complexity (I wanted to keep it relatively simple for my first character) and compatibility with the course - so I made sure that all of the elements of the character outfit were in some way covered by the course material, at least at a basic level.&lt;/p&gt;
+&lt;p&gt;As such, instead I took a browse through Artstation, and found &lt;a class=&#34;link&#34; href=&#34;https://www.artstation.com/artwork/PX4DB3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this&lt;/a&gt; awesome concept from one of the students at W&amp;ndash;ART:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdnb.artstation.com/p/assets/images/images/061/909/963/large/w-art-8.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;My concept of choice - all credit to W&amp;ndash;ART.&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;getting-references&#34;&gt;Getting references&lt;/h3&gt;
+&lt;p&gt;Any artist knows, one of the most important stages to the success of your project is gathering some references before you dive in!&lt;/p&gt;
+&lt;p&gt;It takes time to find the right examples, but this time will prove to be well-spent when I&amp;rsquo;m working out how to go about making certain outfit details, and how to stylize the various elements of this chararcter.&lt;/p&gt;
+&lt;p&gt;I made my ref board using &lt;a class=&#34;link&#34; href=&#34;https://www.pureref.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PureRef&lt;/a&gt;, and I will likely keep updating it as I keep working on the model. A lot of my references came from Overwatch character models - which is the level of stylization I&amp;rsquo;m aiming for.&lt;/p&gt;
+&lt;p&gt;For your interest, I uploaded the entire ref board as an image &lt;a class=&#34;link&#34; href=&#34;refboard.png&#34; &gt;here&lt;/a&gt; - but beware, the image size is around ~30 MB!&lt;/p&gt;
+&lt;h3 id=&#34;first-coursework-assignment&#34;&gt;First coursework assignment&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;http://example.org/post/characterart-01/read1_anatomy.jpg&#34;
+	width=&#34;2277&#34;
+	height=&#34;1578&#34;
+	srcset=&#34;http://example.org/post/characterart-01/read1_anatomy_huebbfad1edfa8e198fe68a27ac6a615ca_823543_480x0_resize_q75_box.jpg 480w, http://example.org/post/characterart-01/read1_anatomy_huebbfad1edfa8e198fe68a27ac6a615ca_823543_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;My first character art coursework submission.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;346px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = 'http://alicehintonjones.com/blog'
+languageCode = 'en-us'
+title = "Alice's Blog"
+theme="hugo-theme-stack"
